@@ -11,4 +11,7 @@ poids et absorber les chocs. On pourrait également penser à un drag chute qui 
 ailerettes pour stabiliser .
 Pour le Timer ananlogique, on pourrait essayer d'utiliser un NE555
                           Liste du matériel nécessaire
+                          Priorité 1   Mission 1  éjection de l'astronaute 
+On va commencer par priviligier un circuit simple, faire sortir un signal du timer après 2,5s 
+                          Priorité 2 design rapide sys relache et activation du moteur
 
